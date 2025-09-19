@@ -3,16 +3,9 @@ import pandas as pd
 import plotly.express as px
 import numpy as np
 
-# ----------------------------
-# 1️⃣ Example Numpy computation
-# ----------------------------
-v1 = np.array([1, 2, 3])
-v2 = np.array([1, 1, 1])
-v3 = v1 + v2
-print("Example numpy addition:", v3)
 
 # ----------------------------
-# 2️⃣ Load Dataset
+# Load Dataset
 # ----------------------------
 @st.cache_data
 def load_data():
@@ -22,7 +15,7 @@ def load_data():
 drinks = load_data()
 
 # ----------------------------
-# 3️⃣ Sidebar Filters
+# Sidebar Filters
 # ----------------------------
 st.sidebar.header("Filters")
 
@@ -38,8 +31,13 @@ if 'continent' in drinks.columns:
 else:
     filtered_data = drinks.copy()
 
+# Slider
+age = st.sidebar.slider("Average consumer age", 0, 100, 25)
+income = st.sidebar.slider("Average consumer income", 0, 30000, (10000, 20000), 500)
+temperature = st.sidebar.slider("Average temperature", -15, 45, 20)
+
 # ----------------------------
-# 4️⃣ Bar Chart Visualization
+# Bar Chart Visualization
 # ----------------------------
 st.title(f"Alcohol Consumption Analysis: {selected_drink}")
 
@@ -54,20 +52,20 @@ fig_bar = px.bar(
 st.plotly_chart(fig_bar, use_container_width=True)
 
 # ----------------------------
-# 5️⃣ Summary Statistics
+# Summary Statistics
 # ----------------------------
 st.header("Summary Statistics")
 st.write(filtered_data[[selected_drink]].describe())
 
 # ----------------------------
-# 6️⃣ Top 10 Countries
+# Top 10 Countries
 # ----------------------------
 st.header(f"Top 10 Countries by {selected_drink.replace('_', ' ').title()}")
 top10 = filtered_data.sort_values(by=selected_drink, ascending=False).head(10)
 st.dataframe(top10[['country', selected_drink]])
 
 # ----------------------------
-# 7️⃣ World Map Visualization
+# World Map Visualization
 # ----------------------------
 st.header(f"World Map of {selected_drink.replace('_', ' ').title()}")
 
