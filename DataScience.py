@@ -73,11 +73,8 @@ st.header(f"World Map of {selected_drink.replace('_', ' ').title()}")
 
 fig_map = px.choropleth(
     filtered_data,
-    locations='country',
-    locationmode='country names',
+    scope="europe",
     color=selected_drink,
-    hover_name='country',
     color_continuous_scale=px.colors.sequential.Plasma,
-    title=f"{selected_drink.replace('_', ' ').title()} by Country"
 )
 st.plotly_chart(fig_map, use_container_width=True)
