@@ -1,4 +1,5 @@
 # DataScience
+Run app : streamlit run DataScience.py
 
 ## Execute project
 ```sh
