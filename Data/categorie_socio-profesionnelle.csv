@@ -1,0 +1,1201 @@
+DEP,VAL,CAT
+01,14582.25833455961,artisant / commercant / chef d'entreprise actif
+01,2100.3998875007937,agriculteur actif
+01,36989.23730531964,cadre sup actif
+01,27.572988078900856,agriculteur chomeur
+01,4576.7514861434565,intermediaire chomeur
+01,1354.6387597856208,cadre sup chomeur
+01,62374.76220773063,intermediaire actif
+01,48468.37770166099,ouvrier actif
+01,600.5338401419464,artisant / commercant / chef d'entreprise chomeur
+01,53947.56522533039,employe actif
+01,6636.517951359041,employe chomeur
+01,7324.83982092569,ouvrier chomeur
+02,3068.042753884417,intermediaire chomeur
+02,10809.07975425261,ouvrier chomeur
+02,9151.378262683998,employe chomeur
+02,688.8712457174427,artisant / commercant / chef d'entreprise chomeur
+02,7906.759985838867,artisant / commercant / chef d'entreprise actif
+02,41.80518042846767,agriculteur chomeur
+02,41099.27089675907,ouvrier actif
+02,14318.4482535631,cadre sup actif
+02,36937.54623134349,intermediaire actif
+02,42217.07152957416,employe actif
+02,2560.046786366472,agriculteur actif
+02,609.7213198793345,cadre sup chomeur
+03,22438.486493892848,intermediaire actif
+03,3318.530303506284,agriculteur actif
+03,8737.444698051833,cadre sup actif
+03,6099.639870322039,artisant / commercant / chef d'entreprise actif
+03,1888.090921174211,intermediaire chomeur
+03,33.256335706246986,agriculteur chomeur
+03,4766.653011261743,employe chomeur
+03,21340.74150348121,ouvrier actif
+03,25970.07426334159,employe actif
+03,4450.185444631104,ouvrier chomeur
+03,415.36710965108887,artisant / commercant / chef d'entreprise chomeur
+03,402.7972405785788,cadre sup chomeur
+04,43.07616709826197,agriculteur chomeur
+04,270.66419806088084,artisant / commercant / chef d'entreprise chomeur
+04,2476.655393788784,employe chomeur
+04,8168.26359709695,ouvrier actif
+04,4809.778650058395,artisant / commercant / chef d'entreprise actif
+04,2048.04171213998,ouvrier chomeur
+04,1217.734736703898,agriculteur actif
+04,12404.958225818787,intermediaire actif
+04,5247.271196921972,cadre sup actif
+04,12326.832634160328,employe actif
+04,1203.110987317198,intermediaire chomeur
+04,328.9819187212521,cadre sup chomeur
+05,4363.931304345179,cadre sup actif
+05,1146.6740032085916,agriculteur actif
+05,12603.802565029018,employe actif
+05,1348.145598067308,ouvrier chomeur
+05,1682.7405497971774,employe chomeur
+05,4312.875958156401,artisant / commercant / chef d'entreprise actif
+05,873.1413269009894,intermediaire chomeur
+05,19.85937421936734,agriculteur chomeur
+05,181.4845396979804,artisant / commercant / chef d'entreprise chomeur
+05,12422.792925594413,intermediaire actif
+05,7088.158412935652,ouvrier actif
+05,202.48045578961512,cadre sup chomeur
+06,83254.42414867661,intermediaire actif
+06,8895.451910272906,intermediaire chomeur
+06,694.747035942082,agriculteur actif
+06,46984.76705056284,ouvrier actif
+06,9668.04611645385,ouvrier chomeur
+06,1739.9496502518296,artisant / commercant / chef d'entreprise chomeur
+06,30258.81612326899,artisant / commercant / chef d'entreprise actif
+06,14.23650692106243,agriculteur chomeur
+06,61626.24358452211,cadre sup actif
+06,17112.166024058875,employe chomeur
+06,3081.281613449817,cadre sup chomeur
+06,94438.02973132693,employe actif
+07,547.8314393119786,cadre sup chomeur
+07,21037.17574589829,ouvrier actif
+07,24915.300034716645,employe actif
+07,25398.43897829935,intermediaire actif
+07,2416.1210699383173,intermediaire chomeur
+07,8840.993796321616,artisant / commercant / chef d'entreprise actif
+07,4357.467453040921,employe chomeur
+07,2551.8357558557523,agriculteur actif
+07,10336.559448698325,cadre sup actif
+07,4502.08097825682,ouvrier chomeur
+07,33.14429639735144,agriculteur chomeur
+07,484.11781334382414,artisant / commercant / chef d'entreprise chomeur
+08,393.42331656708745,artisant / commercant / chef d'entreprise chomeur
+08,1646.8136194845083,agriculteur actif
+08,4434.797439103648,artisant / commercant / chef d'entreprise actif
+08,5203.887270944447,ouvrier chomeur
+08,4451.323902956109,employe chomeur
+08,21161.02594980172,employe actif
+08,20670.00960573986,ouvrier actif
+08,281.1085747711989,cadre sup chomeur
+08,19207.909186867106,intermediaire actif
+08,7198.33050975396,cadre sup actif
+08,1616.7590175147702,intermediaire chomeur
+08,15.524708550277424,agriculteur chomeur
+09,326.6426970190055,artisant / commercant / chef d'entreprise chomeur
+09,12425.394447705972,employe actif
+09,284.9713150719327,cadre sup chomeur
+09,11088.571767237569,intermediaire actif
+09,2477.2492961610333,employe chomeur
+09,4211.738324728774,cadre sup actif
+09,29.696090820760368,agriculteur chomeur
+09,1526.9106401377503,agriculteur actif
+09,3998.470929635933,artisant / commercant / chef d'entreprise actif
+09,7851.105850103409,ouvrier actif
+09,1166.8366708225308,intermediaire chomeur
+09,2215.789734423742,ouvrier chomeur
+10,380.4618442817,cadre sup chomeur
+10,1.0000463386072749,agriculteur chomeur
+10,2145.2277725409404,intermediaire chomeur
+10,21076.1887505136,ouvrier actif
+10,22019.132948326034,intermediaire actif
+10,24170.139873034197,employe actif
+10,2522.532120881536,agriculteur actif
+10,5688.798112090101,ouvrier chomeur
+10,5093.553788320279,employe chomeur
+10,5023.689043837754,artisant / commercant / chef d'entreprise actif
+10,10410.286997083482,cadre sup actif
+10,380.9236765358389,artisant / commercant / chef d'entreprise chomeur
+11,46.036012050279496,agriculteur chomeur
+11,28999.952850741185,employe actif
+11,2769.005638861173,agriculteur actif
+11,9284.7061183125,artisant / commercant / chef d'entreprise actif
+11,25443.88727757727,intermediaire actif
+11,18965.0209351726,ouvrier actif
+11,716.9295655232811,cadre sup chomeur
+11,7290.41205876473,employe chomeur
+11,2966.3603397891816,intermediaire chomeur
+11,5609.514704140981,ouvrier chomeur
+11,709.1741231428883,artisant / commercant / chef d'entreprise chomeur
+11,10311.874704298583,cadre sup actif
+12,34.782782915716766,agriculteur chomeur
+12,1234.8855103776448,intermediaire chomeur
+12,330.82234497068424,cadre sup chomeur
+12,17080.96157700301,ouvrier actif
+12,5856.489504858882,agriculteur actif
+12,21448.4172889432,employe actif
+12,2420.6714567647173,ouvrier chomeur
+12,20251.9639678294,intermediaire actif
+12,2838.595183649049,employe chomeur
+12,8230.892244005649,cadre sup actif
+12,312.17071503347813,artisant / commercant / chef d'entreprise chomeur
+12,7290.815864301644,artisant / commercant / chef d'entreprise actif
+13,22361.40408269765,ouvrier chomeur
+13,120066.065402017,cadre sup actif
+13,5796.158154262801,cadre sup chomeur
+13,31621.584796660874,employe chomeur
+13,157517.16233456467,employe actif
+13,90878.82898508877,ouvrier actif
+13,167104.6516326261,intermediaire actif
+13,16768.237000102727,intermediaire chomeur
+13,3014.8087303986235,artisant / commercant / chef d'entreprise chomeur
+13,58.458669813333685,agriculteur chomeur
+13,40629.94828045507,artisant / commercant / chef d'entreprise actif
+13,2224.9396030006724,agriculteur actif
+14,30353.04447235617,cadre sup actif
+14,3154.583840050689,agriculteur actif
+14,55523.31049863834,employe actif
+14,1155.4400214238478,cadre sup chomeur
+14,867.8306051470743,artisant / commercant / chef d'entreprise chomeur
+14,55577.91210203658,intermediaire actif
+14,43885.00234395872,ouvrier actif
+14,4558.494759645151,intermediaire chomeur
+14,8.1410909165827,agriculteur chomeur
+14,13986.693685846876,artisant / commercant / chef d'entreprise actif
+14,9078.035108191729,employe chomeur
+14,7750.63047765528,ouvrier chomeur
+15,3230.7551968364023,artisant / commercant / chef d'entreprise actif
+15,12083.919202825808,employe actif
+15,9741.755044522912,intermediaire actif
+15,9673.62086929133,ouvrier actif
+15,518.9747283232048,intermediaire chomeur
+15,1361.715473694661,ouvrier chomeur
+15,18.178575623780283,agriculteur chomeur
+15,1296.1870293468169,employe chomeur
+15,120.19037343167255,cadre sup chomeur
+15,129.03554278409987,artisant / commercant / chef d'entreprise chomeur
+15,3662.434894378541,cadre sup actif
+15,3942.521327512754,agriculteur actif
+16,7138.034351624318,artisant / commercant / chef d'entreprise actif
+16,25550.132338790885,ouvrier actif
+16,522.1128913006814,artisant / commercant / chef d'entreprise chomeur
+16,550.9021297019947,cadre sup chomeur
+16,2745.43191323706,agriculteur actif
+16,24017.78473377565,intermediaire actif
+16,2558.5085988253527,intermediaire chomeur
+16,4627.608523758708,ouvrier chomeur
+16,4690.372141629427,employe chomeur
+16,27281.15858356542,employe actif
+16,11304.340625383284,cadre sup actif
+16,58.68742723558264,agriculteur chomeur
+17,1013.6630116654952,artisant / commercant / chef d'entreprise chomeur
+17,45366.65872214128,intermediaire actif
+17,4447.8250454281215,agriculteur actif
+17,51407.754510718456,employe actif
+17,21772.45870750206,cadre sup actif
+17,9350.397546193555,employe chomeur
+17,16603.73433934989,artisant / commercant / chef d'entreprise actif
+17,68.46057045753624,agriculteur chomeur
+17,4711.5814503818165,intermediaire chomeur
+17,1170.947041095385,cadre sup chomeur
+17,7632.096583426574,ouvrier chomeur
+17,36092.44702281636,ouvrier actif
+18,344.6078738365596,cadre sup chomeur
+18,9858.622875046116,cadre sup actif
+18,368.6728067942592,artisant / commercant / chef d'entreprise chomeur
+18,1679.826543427306,intermediaire chomeur
+18,24590.1527836859,employe actif
+18,4572.263985306346,ouvrier chomeur
+18,27.48894594382833,agriculteur chomeur
+18,5095.341866619307,artisant / commercant / chef d'entreprise actif
+18,4160.197849846607,employe chomeur
+18,2052.5113227962934,agriculteur actif
+18,21436.975036409694,intermediaire actif
+18,20278.29880347854,ouvrier actif
+19,272.0662442900639,cadre sup chomeur
+19,15401.159359722762,ouvrier actif
+19,221.0741233395441,artisant / commercant / chef d'entreprise chomeur
+19,2653.561859850033,employe chomeur
+19,4945.169946385945,artisant / commercant / chef d'entreprise actif
+19,7481.883924911339,cadre sup actif
+19,17863.346617261566,intermediaire actif
+19,35.04668910381012,agriculteur chomeur
+19,18991.21592238544,employe actif
+19,2248.610380728569,agriculteur actif
+19,2641.4076359453047,ouvrier chomeur
+19,1182.966524281758,intermediaire chomeur
+21,33788.66478826453,ouvrier actif
+21,27971.055543141138,cadre sup actif
+21,1088.5529284805232,cadre sup chomeur
+21,6108.539485679494,employe chomeur
+21,519.003920348892,artisant / commercant / chef d'entreprise chomeur
+21,34.37012458055367,agriculteur chomeur
+21,2950.397311803267,agriculteur actif
+21,41813.53276480258,employe actif
+21,45747.81768409869,intermediaire actif
+21,5795.511618524694,ouvrier chomeur
+21,3339.5024606911907,intermediaire chomeur
+21,10427.570818691522,artisant / commercant / chef d'entreprise actif
+22,3484.938103937945,intermediaire chomeur
+22,42844.52498998202,intermediaire actif
+22,45157.32024274559,employe actif
+22,86.89730540685639,agriculteur chomeur
+22,19470.830874134863,cadre sup actif
+22,783.0079296291746,cadre sup chomeur
+22,13432.57247667618,artisant / commercant / chef d'entreprise actif
+22,6764.695119936279,ouvrier chomeur
+22,6339.529272777864,employe chomeur
+22,41304.702032971945,ouvrier actif
+22,758.2670206396876,artisant / commercant / chef d'entreprise chomeur
+22,6201.583133181692,agriculteur actif
+23,6429.585358073546,ouvrier actif
+23,1275.2576506834075,employe chomeur
+23,2547.660526059191,cadre sup actif
+23,9403.194472319858,employe actif
+23,594.3823726261357,intermediaire chomeur
+23,184.74742606235264,cadre sup chomeur
+23,2286.445759398412,artisant / commercant / chef d'entreprise actif
+23,6841.0436609562375,intermediaire actif
+23,20.074261660285583,agriculteur chomeur
+23,1304.5940107985064,ouvrier chomeur
+23,2633.665751827752,agriculteur actif
+23,173.41605966494848,artisant / commercant / chef d'entreprise chomeur
+24,5591.950612084443,employe chomeur
+24,601.2243408258192,artisant / commercant / chef d'entreprise chomeur
+24,31879.255808620637,employe actif
+24,542.6676181958292,cadre sup chomeur
+24,45.699505887520175,agriculteur chomeur
+24,9755.782125850745,cadre sup actif
+24,3676.056627538056,agriculteur actif
+24,5226.8689525783575,ouvrier chomeur
+24,26439.59787823528,intermediaire actif
+24,25200.89754020072,ouvrier actif
+24,11118.315377256644,artisant / commercant / chef d'entreprise actif
+24,2550.5177276115323,intermediaire chomeur
+25,858.3737460083975,cadre sup chomeur
+25,45716.34539341218,intermediaire actif
+25,15.95971740600732,agriculteur chomeur
+25,2842.1434469909263,agriculteur actif
+25,24642.44432742557,cadre sup actif
+25,9363.606068851115,artisant / commercant / chef d'entreprise actif
+25,569.6318395207826,artisant / commercant / chef d'entreprise chomeur
+25,44035.44369272717,ouvrier actif
+25,7982.470020915221,ouvrier chomeur
+25,6118.146600968406,employe chomeur
+25,39623.36475235779,employe actif
+25,3390.42805035749,intermediaire chomeur
+26,1136.7437320409333,cadre sup chomeur
+26,38038.648514561966,employe actif
+26,42452.2784612143,intermediaire actif
+26,7023.784305601932,ouvrier chomeur
+26,751.4443251066856,artisant / commercant / chef d'entreprise chomeur
+26,21851.97947574431,cadre sup actif
+26,3159.378737675956,agriculteur actif
+26,12414.365718198773,artisant / commercant / chef d'entreprise actif
+26,3844.058546598724,intermediaire chomeur
+26,41.67575276567487,agriculteur chomeur
+26,7014.115747454856,employe chomeur
+26,33071.49225351922,ouvrier actif
+27,7.90792611973481,agriculteur chomeur
+27,3950.682774719824,intermediaire chomeur
+27,49409.43583212892,intermediaire actif
+27,11046.87717103923,artisant / commercant / chef d'entreprise actif
+27,694.8651964568705,cadre sup chomeur
+27,48057.60497969199,employe actif
+27,1912.176023896284,agriculteur actif
+27,696.3164458777695,artisant / commercant / chef d'entreprise chomeur
+27,23465.65423368432,cadre sup actif
+27,47623.78581946618,ouvrier actif
+27,7920.422551375371,employe chomeur
+27,9153.621534989868,ouvrier chomeur
+28,2843.738875257547,intermediaire chomeur
+28,2126.9603298431693,agriculteur actif
+28,5502.061206774844,ouvrier chomeur
+28,35904.607984783615,employe actif
+28,12.432825904475544,agriculteur chomeur
+28,658.4637850344756,cadre sup chomeur
+28,18572.26637183388,cadre sup actif
+28,37680.5334082099,intermediaire actif
+28,5716.5963633980045,employe chomeur
+28,410.486935603178,artisant / commercant / chef d'entreprise chomeur
+28,7642.546504026073,artisant / commercant / chef d'entreprise actif
+28,30524.105358154786,ouvrier actif
+29,57383.757238318125,ouvrier actif
+29,10588.489255557684,employe chomeur
+29,5432.544307862097,agriculteur actif
+29,39385.06653325982,cadre sup actif
+29,72385.55685872168,employe actif
+29,1856.286111762348,cadre sup chomeur
+29,1001.2500457659118,artisant / commercant / chef d'entreprise chomeur
+29,103.30870672421489,agriculteur chomeur
+29,75996.74377471436,intermediaire actif
+29,6070.7728422288765,intermediaire chomeur
+29,17684.71158719904,artisant / commercant / chef d'entreprise actif
+29,10574.290064368655,ouvrier chomeur
+2A,210.9181716882444,cadre sup chomeur
+2A,544.3515206806358,agriculteur actif
+2A,8968.588484623277,ouvrier actif
+2A,2675.079070390272,employe chomeur
+2A,4.936367096864244,agriculteur chomeur
+2A,16219.695070457945,employe actif
+2A,182.9787732684548,artisant / commercant / chef d'entreprise chomeur
+2A,12247.88569892952,intermediaire actif
+2A,872.3821917868463,intermediaire chomeur
+2A,5168.5750180890245,cadre sup actif
+2A,1238.0261832148644,ouvrier chomeur
+2A,5316.970455484896,artisant / commercant / chef d'entreprise actif
+2B,1657.3584969039189,ouvrier chomeur
+2B,209.9441909567655,cadre sup chomeur
+2B,5321.858530544359,cadre sup actif
+2B,961.6376430541944,intermediaire chomeur
+2B,5871.711460629402,artisant / commercant / chef d'entreprise actif
+2B,9765.634697189802,ouvrier actif
+2B,1059.1480841313903,agriculteur actif
+2B,278.81383138566747,artisant / commercant / chef d'entreprise chomeur
+2B,12070.962223517785,intermediaire actif
+2B,11.03385437924451,agriculteur chomeur
+2B,3222.1920936045544,employe chomeur
+2B,17561.968479667674,employe actif
+30,1489.3359905151333,cadre sup chomeur
+30,19705.428992212823,artisant / commercant / chef d'entreprise actif
+30,36111.734510875714,ouvrier actif
+30,10717.66466223003,ouvrier chomeur
+30,57247.21214311924,employe actif
+30,13186.65787532371,employe chomeur
+30,5933.648583215643,intermediaire chomeur
+30,55271.13326044786,intermediaire actif
+30,26807.963429412477,cadre sup actif
+30,2940.044000381736,agriculteur actif
+30,1652.2643650337775,artisant / commercant / chef d'entreprise chomeur
+30,82.69859263724625,agriculteur chomeur
+31,2357.205329780334,agriculteur actif
+31,103973.17863130152,employe actif
+31,1903.718691225444,artisant / commercant / chef d'entreprise chomeur
+31,133062.6018891528,cadre sup actif
+31,13654.759159560905,intermediaire chomeur
+31,5632.163038054246,cadre sup chomeur
+31,19295.04964069974,employe chomeur
+31,13266.007407576735,ouvrier chomeur
+31,61084.30709109767,ouvrier actif
+31,133388.05456210984,intermediaire actif
+31,28999.26894658528,artisant / commercant / chef d'entreprise actif
+31,54.54999451251939,agriculteur chomeur
+32,371.0229360412938,cadre sup chomeur
+32,10587.732295798627,ouvrier actif
+32,1893.8632736249635,employe chomeur
+32,20.44493304514975,agriculteur chomeur
+32,14248.396950782751,employe actif
+32,2216.8201598204246,ouvrier chomeur
+32,4514.406287273314,artisant / commercant / chef d'entreprise actif
+32,14052.011959070784,intermediaire actif
+32,838.4008953449722,intermediaire chomeur
+32,3167.6094873127577,agriculteur actif
+32,240.7272112002481,artisant / commercant / chef d'entreprise chomeur
+32,6713.670473686508,cadre sup actif
+33,133113.65526547557,employe actif
+33,107.8245635134852,agriculteur chomeur
+33,88318.23735408802,ouvrier actif
+33,2551.3420074585606,artisant / commercant / chef d'entreprise chomeur
+33,39544.0419413037,artisant / commercant / chef d'entreprise actif
+33,4399.0848394593695,agriculteur actif
+33,14308.942900278718,intermediaire chomeur
+33,5025.035562083556,cadre sup chomeur
+33,104752.4348365612,cadre sup actif
+33,144471.21369458677,intermediaire actif
+33,23223.300705247515,employe chomeur
+33,17566.95334119824,ouvrier chomeur
+34,14462.80506932346,ouvrier chomeur
+34,48615.80130133882,ouvrier actif
+34,29532.073272455185,artisant / commercant / chef d'entreprise actif
+34,67.64401417350001,agriculteur chomeur
+34,20810.58112044467,employe chomeur
+34,2341.901606675958,artisant / commercant / chef d'entreprise chomeur
+34,4135.310051399423,cadre sup chomeur
+34,12092.332669085714,intermediaire chomeur
+34,61356.623461448005,cadre sup actif
+34,87666.06566177301,employe actif
+34,3955.4180915577526,agriculteur actif
+34,93038.35938082618,intermediaire actif
+35,910.1971250680116,artisant / commercant / chef d'entreprise chomeur
+35,70190.13877815087,ouvrier actif
+35,11078.679832903696,employe chomeur
+35,85495.1021138937,employe actif
+35,98434.21246648686,intermediaire actif
+35,8473.949746227103,intermediaire chomeur
+35,74.82473148547625,agriculteur chomeur
+35,2814.540667735701,cadre sup chomeur
+35,10324.740497944284,ouvrier chomeur
+35,20013.529273152533,artisant / commercant / chef d'entreprise actif
+35,70095.78933004396,cadre sup actif
+35,6428.463636697338,agriculteur actif
+36,2207.2656043001543,agriculteur actif
+36,3766.318676121253,artisant / commercant / chef d'entreprise actif
+36,14113.097090333787,intermediaire actif
+36,175.5320586816926,cadre sup chomeur
+36,245.94350716406743,artisant / commercant / chef d'entreprise chomeur
+36,975.372555057782,intermediaire chomeur
+36,15537.336143860131,ouvrier actif
+36,32.56509314802993,agriculteur chomeur
+36,2798.9472691860437,employe chomeur
+36,2753.3711210256765,ouvrier chomeur
+36,5806.263336016037,cadre sup actif
+36,17829.013984862937,employe actif
+37,6760.399906844523,ouvrier chomeur
+37,1450.9720858516785,cadre sup chomeur
+37,35809.02112572272,ouvrier actif
+37,49481.73114863092,employe actif
+37,31399.226006813373,cadre sup actif
+37,7569.639866127478,employe chomeur
+37,2187.1111650610305,agriculteur actif
+37,53113.941831717886,intermediaire actif
+37,20.612145181104808,agriculteur chomeur
+37,4637.795785012007,intermediaire chomeur
+37,11015.497148203734,artisant / commercant / chef d'entreprise actif
+37,678.9846356142244,artisant / commercant / chef d'entreprise chomeur
+38,116476.9947613842,intermediaire actif
+38,95254.07294947383,employe actif
+38,85893.07976308477,cadre sup actif
+38,27553.47967672313,artisant / commercant / chef d'entreprise actif
+38,1297.4652529875402,artisant / commercant / chef d'entreprise chomeur
+38,47.601957884670725,agriculteur chomeur
+38,3278.8813890571746,cadre sup chomeur
+38,9290.783501995522,intermediaire chomeur
+38,74694.94772368342,ouvrier actif
+38,12706.712606121757,ouvrier chomeur
+38,3064.2795487108083,agriculteur actif
+38,14013.263176085253,employe chomeur
+39,1924.2082383289,agriculteur actif
+39,5576.326409042053,artisant / commercant / chef d'entreprise actif
+39,2466.1370244957607,employe chomeur
+39,311.70137459326725,cadre sup chomeur
+39,8421.006899135175,cadre sup actif
+39,22004.186154533443,ouvrier actif
+39,19476.78048586352,employe actif
+39,3258.4888557780105,ouvrier chomeur
+39,10.019832189168577,agriculteur chomeur
+39,198.9087109532016,artisant / commercant / chef d'entreprise chomeur
+39,1268.859605144446,intermediaire chomeur
+39,20788.07313150021,intermediaire actif
+40,2261.528825389132,agriculteur actif
+40,36049.58604581613,employe actif
+40,27727.64575553604,ouvrier actif
+40,604.3783190870972,cadre sup chomeur
+40,623.1471877933307,artisant / commercant / chef d'entreprise chomeur
+40,5117.011909464064,ouvrier chomeur
+40,12968.3986640495,cadre sup actif
+40,5826.490240230644,employe chomeur
+40,10579.005611019087,artisant / commercant / chef d'entreprise actif
+40,50.461445577148105,agriculteur chomeur
+40,31627.687929328647,intermediaire actif
+40,2877.239115490735,intermediaire chomeur
+41,1580.5759884570186,intermediaire chomeur
+41,11687.971934602065,cadre sup actif
+41,1730.156126769814,agriculteur actif
+41,28.401514540455565,agriculteur chomeur
+41,4535.865798839416,ouvrier chomeur
+41,3739.808281418773,employe chomeur
+41,23956.78141648728,ouvrier actif
+41,430.7919444183472,cadre sup chomeur
+41,269.77703673567265,artisant / commercant / chef d'entreprise chomeur
+41,26238.73600305425,employe actif
+41,6706.762899072366,artisant / commercant / chef d'entreprise actif
+41,24678.04306752109,intermediaire actif
+42,56584.8637888434,employe actif
+42,15940.00795181288,artisant / commercant / chef d'entreprise actif
+42,3201.961265748187,agriculteur actif
+42,60694.22724672382,intermediaire actif
+42,51091.91220899014,ouvrier actif
+42,8889.348120895322,employe chomeur
+42,4460.112174687096,intermediaire chomeur
+42,1000.0086642685648,artisant / commercant / chef d'entreprise chomeur
+42,22.110180818851603,agriculteur chomeur
+42,1107.2498051388786,cadre sup chomeur
+42,9441.138035064068,ouvrier chomeur
+42,29138.371740591985,cadre sup actif
+43,1034.020992596215,intermediaire chomeur
+43,246.9806809846104,artisant / commercant / chef d'entreprise chomeur
+43,2836.583883119027,agriculteur actif
+43,44.86825506012041,agriculteur chomeur
+43,18244.28886446749,employe actif
+43,16713.286779830378,ouvrier actif
+43,5974.367169419954,artisant / commercant / chef d'entreprise actif
+43,2374.683360249041,ouvrier chomeur
+43,196.87618659119008,cadre sup chomeur
+43,2168.300434434035,employe chomeur
+43,6475.283883520112,cadre sup actif
+43,17603.637219357217,intermediaire actif
+44,14652.054993522324,ouvrier chomeur
+44,87015.5074812962,ouvrier actif
+44,1530.0809236161008,artisant / commercant / chef d'entreprise chomeur
+44,28529.86085614893,artisant / commercant / chef d'entreprise actif
+44,15798.35391166981,employe chomeur
+44,99480.71467423896,cadre sup actif
+44,135699.30306453604,intermediaire actif
+44,5171.67829527892,agriculteur actif
+44,110132.47686771,employe actif
+44,4390.716004930426,cadre sup chomeur
+44,150.2413175828838,agriculteur chomeur
+44,12271.93520810002,intermediaire chomeur
+45,53525.9620685132,employe actif
+45,12001.4478711975,artisant / commercant / chef d'entreprise actif
+45,58685.51127486694,intermediaire actif
+45,24.03806675467477,agriculteur chomeur
+45,33611.21481394131,cadre sup actif
+45,1015.2517452453366,cadre sup chomeur
+45,4507.28198520945,intermediaire chomeur
+45,8866.774539916069,employe chomeur
+45,9462.534327322885,ouvrier chomeur
+45,576.0606857347954,artisant / commercant / chef d'entreprise chomeur
+45,1830.087731079258,agriculteur actif
+45,47358.213654926,ouvrier actif
+46,1078.4643446762273,intermediaire chomeur
+46,2202.41746506794,employe chomeur
+46,4633.224208897199,artisant / commercant / chef d'entreprise actif
+46,12477.162326160287,employe actif
+46,279.56621761330064,cadre sup chomeur
+46,242.6549148073492,artisant / commercant / chef d'entreprise chomeur
+46,5372.441724253515,cadre sup actif
+46,2126.3338927370382,ouvrier chomeur
+46,46.24911729289564,agriculteur chomeur
+46,9569.794102423624,ouvrier actif
+46,11220.6042556492,intermediaire actif
+46,2259.2695037000635,agriculteur actif
+47,9333.871840779071,cadre sup actif
+47,464.5855732457722,artisant / commercant / chef d'entreprise chomeur
+47,2808.5603824099267,agriculteur actif
+47,24643.202438261163,employe actif
+47,1844.2837857215488,intermediaire chomeur
+47,459.7788800495202,cadre sup chomeur
+47,7656.172723177428,artisant / commercant / chef d'entreprise actif
+47,5344.370496849744,ouvrier chomeur
+47,4056.193846772346,employe chomeur
+47,60.976077611183385,agriculteur chomeur
+47,22109.917185978506,intermediaire actif
+47,21364.59122051667,ouvrier actif
+48,2042.5862700611156,cadre sup actif
+48,4028.452324807932,ouvrier actif
+48,90.13383573178204,artisant / commercant / chef d'entreprise chomeur
+48,2025.523694900864,agriculteur actif
+48,753.9635471247354,employe chomeur
+48,377.21979058082815,intermediaire chomeur
+48,6088.257980707866,intermediaire actif
+48,118.96862077115634,cadre sup chomeur
+48,6624.61800967485,employe actif
+48,0.0,agriculteur chomeur
+48,1937.589924473104,artisant / commercant / chef d'entreprise actif
+48,800.4335305637065,ouvrier chomeur
+49,66616.70679457128,intermediaire actif
+49,15378.725817050614,artisant / commercant / chef d'entreprise actif
+49,8805.913313574869,employe chomeur
+49,54.86829308501402,agriculteur chomeur
+49,63476.556730925135,employe actif
+49,1431.3165542289871,cadre sup chomeur
+49,5794.167156023008,agriculteur actif
+49,5413.938823363464,intermediaire chomeur
+49,822.8600401797264,artisant / commercant / chef d'entreprise chomeur
+49,34970.54011537599,cadre sup actif
+49,64120.72048965819,ouvrier actif
+49,10779.031012595417,ouvrier chomeur
+50,38086.97606355584,intermediaire actif
+50,38894.096252191455,employe actif
+50,79.11124817480265,agriculteur chomeur
+50,5144.643194818508,agriculteur actif
+50,5118.7478519218685,employe chomeur
+50,36797.44146635632,ouvrier actif
+50,5107.279332100064,ouvrier chomeur
+50,15482.01427426499,cadre sup actif
+50,9411.357109843628,artisant / commercant / chef d'entreprise actif
+50,464.4828984005027,cadre sup chomeur
+50,2406.0826590964216,intermediaire chomeur
+50,450.313716031901,artisant / commercant / chef d'entreprise chomeur
+51,938.1940315467172,cadre sup chomeur
+51,9297.473322977748,artisant / commercant / chef d'entreprise actif
+51,5378.174107396534,agriculteur actif
+51,587.3802117218589,artisant / commercant / chef d'entreprise chomeur
+51,8269.6721201971,ouvrier chomeur
+51,30.83671721336515,agriculteur chomeur
+51,26072.38844460144,cadre sup actif
+51,7903.264556149096,employe chomeur
+51,46012.32803479945,employe actif
+51,44202.93424600919,intermediaire actif
+51,3672.2386478700014,intermediaire chomeur
+51,39193.56373008941,ouvrier actif
+52,2830.9551412625897,ouvrier chomeur
+52,2180.898653102013,employe chomeur
+52,156.4648584364975,cadre sup chomeur
+52,14126.955672933887,ouvrier actif
+52,768.5725655344602,intermediaire chomeur
+52,4157.260934129158,cadre sup actif
+52,13940.752693842614,employe actif
+52,16.38822610072465,agriculteur chomeur
+52,11500.60006063305,intermediaire actif
+52,167.84220927115655,artisant / commercant / chef d'entreprise chomeur
+52,1407.9702109439042,agriculteur actif
+52,2887.631701525436,artisant / commercant / chef d'entreprise actif
+53,3326.3535917610952,ouvrier chomeur
+53,23639.12146627416,employe actif
+53,9655.3306919986,cadre sup actif
+53,5188.374616672935,artisant / commercant / chef d'entreprise actif
+53,208.87109437805023,artisant / commercant / chef d'entreprise chomeur
+53,23681.003122169896,intermediaire actif
+53,27788.692725626137,ouvrier actif
+53,1206.4458262204255,intermediaire chomeur
+53,341.39424428325606,cadre sup chomeur
+53,18.353315245008403,agriculteur chomeur
+53,4807.084737807433,agriculteur actif
+53,2406.069736645947,employe chomeur
+54,44965.72540726136,ouvrier actif
+54,13.38326702578177,agriculteur chomeur
+54,4985.080166996627,intermediaire chomeur
+54,9767.480893814283,ouvrier chomeur
+54,34922.983722576704,cadre sup actif
+54,61717.41011037712,employe actif
+54,61036.08342574743,intermediaire actif
+54,1425.7015131459204,cadre sup chomeur
+54,1557.1134486664766,agriculteur actif
+54,11430.532942860413,artisant / commercant / chef d'entreprise actif
+54,798.8727066477389,artisant / commercant / chef d'entreprise chomeur
+54,10031.288869026544,employe chomeur
+55,14148.657395789438,ouvrier actif
+55,2737.037665051369,artisant / commercant / chef d'entreprise actif
+55,1929.2390875093456,agriculteur actif
+55,151.3853588424362,cadre sup chomeur
+55,4645.3098316505975,cadre sup actif
+55,15764.658289909536,employe actif
+55,920.8121399667486,intermediaire chomeur
+55,220.1867280854895,artisant / commercant / chef d'entreprise chomeur
+55,13008.399756470748,intermediaire actif
+55,17.133358922041104,agriculteur chomeur
+55,2839.67477545916,ouvrier chomeur
+55,2575.402557939535,employe chomeur
+56,53052.42408741368,ouvrier actif
+56,8957.77530761427,employe chomeur
+56,5537.406104351139,intermediaire chomeur
+56,1468.1393304930682,cadre sup chomeur
+56,8541.242528671006,ouvrier chomeur
+56,17249.196319618633,artisant / commercant / chef d'entreprise actif
+56,57657.03701237015,employe actif
+56,27007.62193389787,cadre sup actif
+56,4816.098030866604,agriculteur actif
+56,104.62387988257346,agriculteur chomeur
+56,891.8096334173182,artisant / commercant / chef d'entreprise chomeur
+56,58207.449046029455,intermediaire actif
+57,6759.606948445956,intermediaire chomeur
+57,92303.16142406514,employe actif
+57,20.66009619955937,agriculteur chomeur
+57,1100.6573693646944,artisant / commercant / chef d'entreprise chomeur
+57,1500.6535906150564,cadre sup chomeur
+57,88840.03781093059,intermediaire actif
+57,44816.661264852926,cadre sup actif
+57,15050.525269446394,ouvrier chomeur
+57,14557.01529585159,employe chomeur
+57,15259.343474235402,artisant / commercant / chef d'entreprise actif
+57,1877.908113307432,agriculteur actif
+57,77403.93719489589,ouvrier actif
+58,24.90147836382137,agriculteur chomeur
+58,2062.2876010384334,agriculteur actif
+58,12133.989701397157,ouvrier actif
+58,2697.170663439756,employe chomeur
+58,14599.677492713354,employe actif
+58,211.0127114627898,artisant / commercant / chef d'entreprise chomeur
+58,207.91215828894215,cadre sup chomeur
+58,5214.853986343231,cadre sup actif
+58,3682.245522120181,artisant / commercant / chef d'entreprise actif
+58,952.6943773770056,intermediaire chomeur
+58,13095.164157919717,intermediaire actif
+58,2578.535905801132,ouvrier chomeur
+59,139754.31542868106,cadre sup actif
+59,20628.05539757984,intermediaire chomeur
+59,198263.69130598844,employe actif
+59,208875.4729418344,intermediaire actif
+59,161537.1148825264,ouvrier actif
+59,35716.00388963104,artisant / commercant / chef d'entreprise actif
+59,3739.0382543974506,artisant / commercant / chef d'entreprise chomeur
+59,81.99596807819813,agriculteur chomeur
+59,47320.64423772434,ouvrier chomeur
+59,3757.4866777367374,agriculteur actif
+59,4921.346068805435,cadre sup chomeur
+59,44556.31874011087,employe chomeur
+60,74169.5987138621,intermediaire actif
+60,1513.3613446519792,cadre sup chomeur
+60,14016.696212246594,artisant / commercant / chef d'entreprise actif
+60,27.22809323555525,agriculteur chomeur
+60,6351.185091178199,intermediaire chomeur
+60,58872.501531808055,ouvrier actif
+60,11751.27440135662,ouvrier chomeur
+60,39606.39283123695,cadre sup actif
+60,936.720903592774,artisant / commercant / chef d'entreprise chomeur
+60,71351.75676529594,employe actif
+60,1818.8979494578384,agriculteur actif
+60,11902.050330695702,employe chomeur
+61,36.1849211490122,agriculteur chomeur
+61,21497.34506738452,ouvrier actif
+61,5665.443434504509,artisant / commercant / chef d'entreprise actif
+61,300.79851100929113,artisant / commercant / chef d'entreprise chomeur
+61,3087.714184832286,agriculteur actif
+61,20875.76145744994,employe actif
+61,17496.5689653323,intermediaire actif
+61,6655.023497510272,cadre sup actif
+61,4126.595795035076,ouvrier chomeur
+61,212.95840696632408,cadre sup chomeur
+61,1268.9951350844656,intermediaire chomeur
+61,3258.919933344372,employe chomeur
+62,108377.3420310063,ouvrier actif
+62,24510.73872752004,employe chomeur
+62,120588.58975459333,employe actif
+62,29.81971394369816,agriculteur chomeur
+62,21449.14208371568,artisant / commercant / chef d'entreprise actif
+62,8675.201348265238,intermediaire chomeur
+62,109167.19308840702,intermediaire actif
+62,44025.91923454485,cadre sup actif
+62,1392.1879436935071,cadre sup chomeur
+62,27307.65787590891,ouvrier chomeur
+62,4267.661363028003,agriculteur actif
+62,1583.0574321078489,artisant / commercant / chef d'entreprise chomeur
+63,7612.1255143082,ouvrier chomeur
+63,40662.592972185,ouvrier actif
+63,54713.52938868362,intermediaire actif
+63,3592.727282807182,agriculteur actif
+63,84.80865652133049,agriculteur chomeur
+63,4328.151189976009,intermediaire chomeur
+63,8163.973793897022,employe chomeur
+63,52089.62557675687,employe actif
+63,1281.4122255724678,cadre sup chomeur
+63,746.3511776206592,artisant / commercant / chef d'entreprise chomeur
+63,13436.518178953342,artisant / commercant / chef d'entreprise actif
+63,35323.658823168385,cadre sup actif
+64,6481.962092020468,ouvrier chomeur
+64,30954.44894512228,cadre sup actif
+64,9122.225711941432,employe chomeur
+64,16878.155604468124,artisant / commercant / chef d'entreprise actif
+64,5035.440716974236,agriculteur actif
+64,49.53623492381608,agriculteur chomeur
+64,1468.266824165182,cadre sup chomeur
+64,909.951676935642,artisant / commercant / chef d'entreprise chomeur
+64,5548.301935467404,intermediaire chomeur
+64,57454.61337772188,intermediaire actif
+64,55250.41142679951,employe actif
+64,37714.00799010717,ouvrier actif
+65,16333.32632318246,intermediaire actif
+65,3523.684077373216,employe chomeur
+65,5085.169435200156,artisant / commercant / chef d'entreprise actif
+65,2718.983653373801,ouvrier chomeur
+65,12068.600222911631,ouvrier actif
+65,1284.993407650005,intermediaire chomeur
+65,6676.6484615931,cadre sup actif
+65,0.0,agriculteur chomeur
+65,1435.6963029548556,agriculteur actif
+65,19622.488700382117,employe actif
+65,297.1755830036696,artisant / commercant / chef d'entreprise chomeur
+65,291.5446999029973,cadre sup chomeur
+66,65.05781728222621,agriculteur chomeur
+66,31768.037542307466,intermediaire actif
+66,4095.875121160855,intermediaire chomeur
+66,1127.8517571001405,artisant / commercant / chef d'entreprise chomeur
+66,21885.14013897288,ouvrier actif
+66,7682.354843626701,ouvrier chomeur
+66,37013.559317201376,employe actif
+66,800.9867185053417,cadre sup chomeur
+66,9422.390553959463,employe chomeur
+66,1618.443886751239,agriculteur actif
+66,11723.56987487601,artisant / commercant / chef d'entreprise actif
+66,13314.391660051231,cadre sup actif
+67,1056.5316882534023,artisant / commercant / chef d'entreprise chomeur
+67,100870.31135398826,intermediaire actif
+67,1991.833958860166,agriculteur actif
+67,3010.796063069593,cadre sup chomeur
+67,13379.472321723606,employe chomeur
+67,42.10899044573681,agriculteur chomeur
+67,69087.39606953536,cadre sup actif
+67,7829.83874273686,intermediaire chomeur
+67,14029.294441738071,ouvrier chomeur
+67,19290.92233623834,artisant / commercant / chef d'entreprise actif
+67,82264.03388768788,ouvrier actif
+67,90999.9881129112,employe actif
+68,2036.8500957686324,agriculteur actif
+68,38.27787042204285,agriculteur chomeur
+68,60441.78760126844,ouvrier actif
+68,4898.004721052458,intermediaire chomeur
+68,60720.12354948645,employe actif
+68,12858.56463130592,artisant / commercant / chef d'entreprise actif
+68,725.6040339977596,artisant / commercant / chef d'entreprise chomeur
+68,65620.23377874828,intermediaire actif
+68,35136.49383326832,cadre sup actif
+68,1314.5940903169835,cadre sup chomeur
+68,10789.072889287763,employe chomeur
+68,12292.924218605647,ouvrier chomeur
+69,23587.386852915737,employe chomeur
+69,17144.642321318363,intermediaire chomeur
+69,172270.95576452895,intermediaire actif
+69,18375.0534731456,ouvrier chomeur
+69,7273.710798761362,cadre sup chomeur
+69,86748.01523334623,ouvrier actif
+69,136249.10050470778,employe actif
+69,3178.3824836186745,agriculteur actif
+69,161040.42509090225,cadre sup actif
+69,2296.6364926489905,artisant / commercant / chef d'entreprise chomeur
+69,39.72930916466725,agriculteur chomeur
+69,37488.23545035083,artisant / commercant / chef d'entreprise actif
+70,6807.865428016466,cadre sup actif
+70,25.31673488685972,agriculteur chomeur
+70,270.36953037177364,artisant / commercant / chef d'entreprise chomeur
+70,3426.389815570508,ouvrier chomeur
+70,1825.037500019735,agriculteur actif
+70,1191.774029524919,intermediaire chomeur
+70,271.11987713267,cadre sup chomeur
+70,17933.119237880805,employe actif
+70,4714.940055089368,artisant / commercant / chef d'entreprise actif
+70,19405.48242353537,ouvrier actif
+70,2698.2713289670664,employe chomeur
+70,18375.885135577337,intermediaire actif
+71,17352.571760713316,cadre sup actif
+71,602.801769849524,cadre sup chomeur
+71,2851.707868177005,intermediaire chomeur
+71,6326.947966228368,employe chomeur
+71,4566.9123737694845,agriculteur actif
+71,10937.098670878237,artisant / commercant / chef d'entreprise actif
+71,603.154221227592,artisant / commercant / chef d'entreprise chomeur
+71,6919.364509974949,ouvrier chomeur
+71,39447.29090713296,intermediaire actif
+71,42330.05457765995,employe actif
+71,40208.90727848476,ouvrier actif
+71,90.19699025430282,agriculteur chomeur
+72,663.8000811737211,cadre sup chomeur
+72,3150.8961852432367,intermediaire chomeur
+72,38.27832526156008,agriculteur chomeur
+72,45070.77238363313,employe actif
+72,6996.450548393225,employe chomeur
+72,20239.66668414973,cadre sup actif
+72,7710.253917320794,ouvrier chomeur
+72,43168.19543266416,intermediaire actif
+72,44558.500239598085,ouvrier actif
+72,9316.556250794796,artisant / commercant / chef d'entreprise actif
+72,510.3118065860748,artisant / commercant / chef d'entreprise chomeur
+72,3511.985788784425,agriculteur actif
+73,1380.5340460017176,agriculteur actif
+73,28173.1592849415,ouvrier actif
+73,782.768766909227,cadre sup chomeur
+73,6.380464306074078,agriculteur chomeur
+73,2792.0712468646807,intermediaire chomeur
+73,393.2864243821592,artisant / commercant / chef d'entreprise chomeur
+73,36237.51446881337,employe actif
+73,21457.1562809814,cadre sup actif
+73,11712.12163231886,artisant / commercant / chef d'entreprise actif
+73,43050.66304771699,intermediaire actif
+73,4391.07509937919,employe chomeur
+73,3781.884239286881,ouvrier chomeur
+74,74364.51935656594,employe actif
+74,50405.74821318423,cadre sup actif
+74,9644.213495656364,employe chomeur
+74,87406.81686002744,intermediaire actif
+74,22438.344925518875,artisant / commercant / chef d'entreprise actif
+74,58409.10803330923,ouvrier actif
+74,22.26187914205688,agriculteur chomeur
+74,7740.817243234853,ouvrier chomeur
+74,798.6080358850692,artisant / commercant / chef d'entreprise chomeur
+74,1948.2630155809177,cadre sup chomeur
+74,6866.024903054109,intermediaire chomeur
+74,1983.7869614297408,agriculteur actif
+75,173374.62616203385,intermediaire actif
+75,126546.7622966322,employe actif
+75,25702.37915058176,intermediaire chomeur
+75,43197.05304398247,ouvrier actif
+75,10387.167248054771,ouvrier chomeur
+75,2909.3141490198,artisant / commercant / chef d'entreprise chomeur
+75,24.635609256165143,agriculteur chomeur
+75,416338.99121808336,cadre sup actif
+75,24615.75561575176,employe chomeur
+75,43766.94946551057,artisant / commercant / chef d'entreprise actif
+75,24201.56809637236,cadre sup chomeur
+75,180.51653153078115,agriculteur actif
+76,19707.582571771374,employe chomeur
+76,3394.6504846761445,agriculteur actif
+76,8587.17035981021,intermediaire chomeur
+76,19097.199979010056,artisant / commercant / chef d'entreprise actif
+76,1960.514148028995,cadre sup chomeur
+76,19137.627703367816,ouvrier chomeur
+76,99054.98796156446,employe actif
+76,103167.99547629284,intermediaire actif
+76,84231.52649464483,ouvrier actif
+76,54180.199740537886,cadre sup actif
+76,1432.1988321965655,artisant / commercant / chef d'entreprise chomeur
+76,52.25530928597203,agriculteur chomeur
+77,25149.65822330875,artisant / commercant / chef d'entreprise actif
+77,1480.0789433494608,agriculteur actif
+77,3114.576599097023,cadre sup chomeur
+77,78988.07887862196,ouvrier actif
+77,143920.42960858962,intermediaire actif
+77,137766.46177127032,employe actif
+77,1487.8655860962006,artisant / commercant / chef d'entreprise chomeur
+77,88345.8400680486,cadre sup actif
+77,12790.27194648112,ouvrier chomeur
+77,11065.051585770114,intermediaire chomeur
+77,18747.1781708637,employe chomeur
+77,25.182809998713847,agriculteur chomeur
+78,474.9609839373907,agriculteur actif
+78,1353.0614928579405,artisant / commercant / chef d'entreprise chomeur
+78,51124.992536411366,ouvrier actif
+78,23630.338468524515,artisant / commercant / chef d'entreprise actif
+78,130836.01240966638,intermediaire actif
+78,15964.271491437225,employe chomeur
+78,12256.833818949148,intermediaire chomeur
+78,19.453075501650112,agriculteur chomeur
+78,9484.37769595043,ouvrier chomeur
+78,106912.3610266165,employe actif
+78,167242.9595888273,cadre sup actif
+78,5706.8020004288965,cadre sup chomeur
+79,4060.283841658248,agriculteur actif
+79,492.3852728893729,cadre sup chomeur
+79,27278.523950247145,intermediaire actif
+79,31005.82603624872,employe actif
+79,4449.294458015329,ouvrier chomeur
+79,29020.354472880877,ouvrier actif
+79,4062.031967413966,employe chomeur
+79,25.851605709922406,agriculteur chomeur
+79,1867.1537518241007,intermediaire chomeur
+79,14982.283139566132,cadre sup actif
+79,360.1864750099166,artisant / commercant / chef d'entreprise chomeur
+79,6789.141304436362,artisant / commercant / chef d'entreprise actif
+80,21963.991188888496,cadre sup actif
+80,777.3162182315091,cadre sup chomeur
+80,44160.27548746001,employe actif
+80,29.12502108840422,agriculteur chomeur
+80,9716.32896976838,ouvrier chomeur
+80,8372.13509089975,employe chomeur
+80,3254.9914176192988,agriculteur actif
+80,8618.5848852331,artisant / commercant / chef d'entreprise actif
+80,3517.0146872851246,intermediaire chomeur
+80,588.1620732368523,artisant / commercant / chef d'entreprise chomeur
+80,41741.24786068681,ouvrier actif
+80,42615.27161445472,intermediaire actif
+81,745.4047155229899,cadre sup chomeur
+81,9185.20681948951,artisant / commercant / chef d'entreprise actif
+81,5313.143540786909,employe chomeur
+81,30853.76081056729,intermediaire actif
+81,507.7574750237584,artisant / commercant / chef d'entreprise chomeur
+81,4257.891592692253,ouvrier chomeur
+81,81.40928229439427,agriculteur chomeur
+81,13859.533273528645,cadre sup actif
+81,3232.197528429026,agriculteur actif
+81,21321.311800843527,ouvrier actif
+81,2620.270321836774,intermediaire chomeur
+81,30305.63629092049,employe actif
+82,19596.116197904383,intermediaire actif
+82,3819.7348087610185,ouvrier chomeur
+82,21325.9733640506,employe actif
+82,16273.326456217852,ouvrier actif
+82,8732.787919858882,cadre sup actif
+82,1645.0110651632017,intermediaire chomeur
+82,398.72335881313865,cadre sup chomeur
+82,2172.6536313162524,agriculteur actif
+82,503.3204117876342,artisant / commercant / chef d'entreprise chomeur
+82,3858.048584008488,employe chomeur
+82,57.71584784340523,agriculteur chomeur
+82,6278.020890528925,artisant / commercant / chef d'entreprise actif
+83,2089.202948231822,artisant / commercant / chef d'entreprise chomeur
+83,10880.60463000501,ouvrier chomeur
+83,91985.19994874945,employe actif
+83,47121.08922083036,ouvrier actif
+83,30721.683669324702,artisant / commercant / chef d'entreprise actif
+83,2110.46858663732,agriculteur actif
+83,8263.485178586192,intermediaire chomeur
+83,39898.66738550572,cadre sup actif
+83,79516.01350810005,intermediaire actif
+83,55.55716784858384,agriculteur chomeur
+83,17977.733892933822,employe chomeur
+83,1819.7558682799347,cadre sup chomeur
+84,9291.422751423705,employe chomeur
+84,20873.93356696977,cadre sup actif
+84,32006.128717667907,ouvrier actif
+84,40882.25957287176,employe actif
+84,15373.747260179094,artisant / commercant / chef d'entreprise actif
+84,8840.216448012354,ouvrier chomeur
+84,2966.131898186748,agriculteur actif
+84,1146.74138868616,cadre sup chomeur
+84,1113.397116105758,artisant / commercant / chef d'entreprise chomeur
+84,68.9219258519352,agriculteur chomeur
+84,41038.05848039952,intermediaire actif
+84,4432.554530214563,intermediaire chomeur
+85,815.2463630572206,cadre sup chomeur
+85,7259.584045553395,employe chomeur
+85,3905.1347636555047,intermediaire chomeur
+85,832.9814900325467,artisant / commercant / chef d'entreprise chomeur
+85,6862.502994717326,ouvrier chomeur
+85,59671.653561966064,ouvrier actif
+85,51467.396823018586,intermediaire actif
+85,53562.16080557557,employe actif
+85,5414.073861434367,agriculteur actif
+85,35.62831947829099,agriculteur chomeur
+85,15514.812905916982,artisant / commercant / chef d'entreprise actif
+85,19974.450585427,cadre sup actif
+86,36722.98481079068,employe actif
+86,717.3043479444902,cadre sup chomeur
+86,19208.51589815206,cadre sup actif
+86,25644.6579248887,ouvrier actif
+86,53.61108251696848,agriculteur chomeur
+86,451.8860154768404,artisant / commercant / chef d'entreprise chomeur
+86,5221.712169457396,employe chomeur
+86,34596.598672548964,intermediaire actif
+86,7692.2812375070735,artisant / commercant / chef d'entreprise actif
+86,2884.4305969028246,intermediaire chomeur
+86,4994.873731605743,ouvrier chomeur
+86,2648.868020184685,agriculteur actif
+87,2366.451267622888,agriculteur actif
+87,1956.0904479917392,intermediaire chomeur
+87,30051.67261311399,employe actif
+87,692.8193828128847,cadre sup chomeur
+87,30052.725507428426,intermediaire actif
+87,357.5213016269618,artisant / commercant / chef d'entreprise chomeur
+87,14790.23504345615,cadre sup actif
+87,4490.792592348484,employe chomeur
+87,4435.423226531942,ouvrier chomeur
+87,64.21273802894953,agriculteur chomeur
+87,6807.194111417031,artisant / commercant / chef d'entreprise actif
+87,20850.07188376595,ouvrier actif
+88,6128.548806666287,ouvrier chomeur
+88,539.0289780623029,artisant / commercant / chef d'entreprise chomeur
+88,1932.583315486292,agriculteur actif
+88,10570.349176999169,cadre sup actif
+88,28562.419851478116,employe actif
+88,4997.870954028773,employe chomeur
+88,44.85633002844169,agriculteur chomeur
+88,27192.951263118644,ouvrier actif
+88,350.36713172803303,cadre sup chomeur
+88,7335.909768041152,artisant / commercant / chef d'entreprise actif
+88,26222.415224076183,intermediaire actif
+88,2174.888293998408,intermediaire chomeur
+89,427.226245091728,cadre sup chomeur
+89,4594.412879913754,employe chomeur
+89,26813.085721701475,employe actif
+89,18.84345155092556,agriculteur chomeur
+89,1816.2940506187444,intermediaire chomeur
+89,4976.663051261219,ouvrier chomeur
+89,6368.62430096653,artisant / commercant / chef d'entreprise actif
+89,25079.050534067832,ouvrier actif
+89,23947.75004527017,intermediaire actif
+89,2371.19809360708,agriculteur actif
+89,10125.766683220729,cadre sup actif
+89,454.1646594986415,artisant / commercant / chef d'entreprise chomeur
+90,247.29885676424385,cadre sup chomeur
+90,8088.234368678293,cadre sup actif
+90,10381.889899452131,employe actif
+90,181.62555294159745,artisant / commercant / chef d'entreprise chomeur
+90,11311.30708385894,intermediaire actif
+90,9837.95070532598,ouvrier actif
+90,1042.7388292971257,intermediaire chomeur
+90,107.32273078731552,agriculteur actif
+90,2301.315621554387,ouvrier chomeur
+90,2032.9747346480592,employe chomeur
+90,2169.964793556748,artisant / commercant / chef d'entreprise actif
+90,0.0,agriculteur chomeur
+91,457.5522151885618,agriculteur actif
+91,112208.56376008422,employe actif
+91,10256.100149225253,intermediaire chomeur
+91,126107.41999762083,intermediaire actif
+91,16473.174367398173,employe chomeur
+91,20098.20306632841,artisant / commercant / chef d'entreprise actif
+91,3670.086085513212,cadre sup chomeur
+91,63967.319345754026,ouvrier actif
+91,1313.7985782795213,artisant / commercant / chef d'entreprise chomeur
+91,105051.86654475842,cadre sup actif
+91,21.197023722758367,agriculteur chomeur
+91,10695.7813424622,ouvrier chomeur
+92,28941.65569458896,artisant / commercant / chef d'entreprise actif
+92,8617.70120973057,ouvrier chomeur
+92,18833.39618577589,employe chomeur
+92,10728.888449825758,cadre sup chomeur
+92,7.383924194193113,agriculteur chomeur
+92,16884.11456401909,intermediaire chomeur
+92,126.11063046943926,agriculteur actif
+92,266489.9628997696,cadre sup actif
+92,2103.917966462491,artisant / commercant / chef d'entreprise chomeur
+92,41346.144951021975,ouvrier actif
+92,138007.95635300656,intermediaire actif
+92,113283.65792472551,employe actif
+93,5887.836607219035,cadre sup chomeur
+93,101825.57415026805,ouvrier actif
+93,3296.568068770968,artisant / commercant / chef d'entreprise chomeur
+93,16378.625774821943,intermediaire chomeur
+93,154759.0462638511,employe actif
+93,90241.00948659625,cadre sup actif
+93,121909.25819763956,intermediaire actif
+93,34945.40990311531,employe chomeur
+93,24374.50480671993,ouvrier chomeur
+93,18.61903262584667,agriculteur chomeur
+93,27191.230036612586,artisant / commercant / chef d'entreprise actif
+93,70.65489526832344,agriculteur actif
+94,14015.979687211804,intermediaire chomeur
+94,2135.7940278252504,artisant / commercant / chef d'entreprise chomeur
+94,11718.994745568638,ouvrier chomeur
+94,6005.211785192765,cadre sup chomeur
+94,59199.05200064116,ouvrier actif
+94,125546.8700963526,intermediaire actif
+94,6.2264250388796825,agriculteur chomeur
+94,23473.232379778918,artisant / commercant / chef d'entreprise actif
+94,121842.08081334138,employe actif
+94,21059.97647340416,employe chomeur
+94,139005.3503041766,cadre sup actif
+94,63.42036529869789,agriculteur actif
+95,11158.20395080161,intermediaire chomeur
+95,117041.40808822484,intermediaire actif
+95,12.015781676561453,agriculteur chomeur
+95,1530.1119428418067,artisant / commercant / chef d'entreprise chomeur
+95,269.52933653506227,agriculteur actif
+95,12083.599230741713,ouvrier chomeur
+95,3238.092589402854,cadre sup chomeur
+95,19037.29034881735,employe chomeur
+95,64608.0914225848,ouvrier actif
+95,20772.501353698943,artisant / commercant / chef d'entreprise actif
+95,84293.41304396768,cadre sup actif
+95,113112.95411469124,employe actif
+971,1228.3821326022382,artisant / commercant / chef d'entreprise chomeur
+971,13683.49486346102,ouvrier actif
+971,4973.679751775103,intermediaire chomeur
+971,23291.301004179877,intermediaire actif
+971,8971.321174872912,artisant / commercant / chef d'entreprise actif
+971,127.81792452128605,agriculteur chomeur
+971,8495.018291390234,ouvrier chomeur
+971,28377.60866890991,employe actif
+971,10196.467222591627,cadre sup actif
+971,1378.186148874679,agriculteur actif
+971,12249.300162984866,employe chomeur
+971,601.5115541613187,cadre sup chomeur
+972,29852.611668320755,employe actif
+972,6669.494871062384,ouvrier chomeur
+972,23982.63029998082,intermediaire actif
+972,9841.972288605502,employe chomeur
+972,10893.707296873408,cadre sup actif
+972,15412.993430178678,ouvrier actif
+972,1065.2096002519015,agriculteur actif
+972,606.3441732872352,cadre sup chomeur
+972,621.9931066778018,artisant / commercant / chef d'entreprise chomeur
+972,7037.890245780802,artisant / commercant / chef d'entreprise actif
+972,4083.496321177781,intermediaire chomeur
+972,113.6165769930485,agriculteur chomeur
+973,829.4131198751339,agriculteur actif
+973,4090.234798266605,ouvrier chomeur
+973,65.65410828595209,agriculteur chomeur
+973,608.7540189934579,artisant / commercant / chef d'entreprise chomeur
+973,7498.628146824797,cadre sup actif
+973,15911.597272133866,employe actif
+973,14695.383695604723,intermediaire actif
+973,4048.826623886322,artisant / commercant / chef d'entreprise actif
+973,1439.6673766225697,intermediaire chomeur
+973,222.0764603920777,cadre sup chomeur
+973,10680.518947921091,ouvrier actif
+973,5246.296922206275,employe chomeur
+974,24397.17317736984,cadre sup actif
+974,66390.60839845972,employe actif
+974,10712.537329805966,intermediaire chomeur
+974,35490.56163961697,ouvrier actif
+974,32818.76745638671,employe chomeur
+974,3587.8828091080527,agriculteur actif
+974,1338.8407133025082,cadre sup chomeur
+974,15053.149660939012,artisant / commercant / chef d'entreprise actif
+974,235.8984266701155,agriculteur chomeur
+974,28268.47071585881,ouvrier chomeur
+974,2217.3791543713387,artisant / commercant / chef d'entreprise chomeur
+974,54606.33811568296,intermediaire actif
